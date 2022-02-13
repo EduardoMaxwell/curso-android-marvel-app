@@ -1,10 +1,9 @@
-package br.com.eduardomaxwell.core.data.network.interceptor
+package com.example.marvelapp.framework.network.interceptor
 
 import okhttp3.Interceptor
 import okhttp3.Response
 import java.math.BigInteger
 import java.security.MessageDigest
-import java.security.PublicKey
 import java.util.*
 
 class AuthorizationInterceptor(
