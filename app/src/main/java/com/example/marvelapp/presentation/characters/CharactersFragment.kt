@@ -103,8 +103,8 @@ class CharactersFragment : Fragment() {
     }
 
     companion object {
-        private const val FLIPPER_CHILD_LOADING = 0;
-        private const val FLIPPER_CHILD_CHARACTERS = 1;
-        private const val FLIPPER_CHILD_ERROR = 2;
+        private const val FLIPPER_CHILD_LOADING = 0
+        private const val FLIPPER_CHILD_CHARACTERS = 1
+        private const val FLIPPER_CHILD_ERROR = 2
     }
 }
